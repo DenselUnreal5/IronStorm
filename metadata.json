@@ -1,0 +1,7 @@
+{
+  "name": "Creative Studio",
+  "description": "Интерактивное веб-приложение, созданное в Google AI Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
